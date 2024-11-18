@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q30mAunpLIg=",
+  "success": true,
+  "projectFilePath": "/Users/ayman/Desktop/Hotel Booking API/catalogue_service/catalogue_service.csproj",
+  "expectedPackageFiles": [
+    "/Users/ayman/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/ayman/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
